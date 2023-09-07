@@ -33,5 +33,4 @@ More information about the dataset can be found here:
 
 
 ## Model Diagram
-
-![Image Alt Text](model_diagram.png)
+![Image Alt Text](architecture.jpg)
