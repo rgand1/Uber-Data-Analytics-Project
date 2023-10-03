@@ -34,6 +34,10 @@ More information about the dataset can be found here:
 
 ## Model Diagram
 ![Image Alt Text](model_diagram.png)
+## Dashboard 
+An interactive dashboard showcasing insights derived from the Uber data can be seen here: 
+
+-[Dashboard](https://lookerstudio.google.com/reporting/f8d695ff-ed45-4841-90d1-571a5a463ab4)
 
 ## Acknowledgments
 
